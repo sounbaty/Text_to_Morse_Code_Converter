@@ -1,0 +1,5 @@
+Pip~=23.2.1
+Flask~=2.2.5
+bootstrap-flask
+Flask-WTF~=1.1.1
+WTForms~=3.0.1
